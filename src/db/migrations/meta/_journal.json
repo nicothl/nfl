@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1710348115964,
+      "tag": "0000_right_angel",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1710422675220,
+      "tag": "0001_nostalgic_echo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1710424899882,
+      "tag": "0002_thin_brother_voodoo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1710425047258,
+      "tag": "0003_lethal_lily_hollister",
+      "breakpoints": true
+    }
+  ]
+}
